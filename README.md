@@ -1,4 +1,5 @@
 # Bear+
+This is a simple patch-notes repository created to publish informations about the development of the game Bear+
 ## Code
 ### Files
 - [x] RoundSystem
